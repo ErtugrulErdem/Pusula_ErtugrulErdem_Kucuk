@@ -133,7 +133,7 @@ Grafikler oluşturulur ve PNG formatında kaydedilir
 
 Terminal Outputu
 
-🔥 TALENT ACADEMY - DETAYLI İSTATİSTİK RAPORU 🔥
+**🔥 TALENT ACADEMY - DETAYLI İSTATİSTİK RAPORU 🔥
 ============================================================
 📊 TEMEL İSTATİSTİKLER
 ============================================================
@@ -303,4 +303,4 @@ Terminal Outputu
 🎯 TÜM İSTATİSTİKLER TERMINAL'DE GÖSTERİLDİ!
 📊 13 FARKLI GRAFİK PNG FORMATINDA KAYDEDİLDİ!
 💪 ANALİZ TAMAMLANDI!
-============================================================
+============================================================**
