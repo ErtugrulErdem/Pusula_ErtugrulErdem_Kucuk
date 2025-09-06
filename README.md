@@ -11,6 +11,7 @@ Kod hem terminal çıktısı verir hem de 13 farklı grafik PNG formatında kayd
 Kullanılan Teknolojiler
 
 pandas → Veri okuma, işleme ve istatistiksel hesaplamalar
+
 matplotlib → Grafik çizimi
 seaborn → Estetik görselleştirme (heatmap vb.)
 numpy → Matematiksel işlemler (korelasyon, standart sapma)
@@ -74,7 +75,7 @@ Veri temizlenir ve kategorilere ayrılır (yaş grupları, kronik hastalık list
 Sonuçlar terminale yazdırılır
 Grafikler oluşturulur ve PNG formatında kaydedilir
 ----------------------------------------------------------------------------------------------------------------------------------------
-Termin Outputu
+Terminal Outputu
 
 🔥 TALENT ACADEMY - DETAYLI İSTATİSTİK RAPORU 🔥
 ============================================================
